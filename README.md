@@ -3,10 +3,6 @@
 A simple **countdown timer** application made with Python's Tkinter GUI library.  
 You enter the time in minutes, click "Start Timer", and it will count down until it reaches zero.
 
----
-
-## 📷 Screenshot
-*(Add a screenshot of the app here if you want)*
 
 ---
 
